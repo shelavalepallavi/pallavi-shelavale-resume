@@ -1,4 +1,4 @@
-# 🚀 My Resume  
+# 🚀 My Resume  ✨
 
 This repository contains my resume in both **webpage** and **PDF** formats.  
 
